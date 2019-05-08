@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Local config
-config/*.env.local.js
+config/default.local.js
 
 # Custom assets
 src/assets/custom/*
