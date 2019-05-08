@@ -12,6 +12,9 @@ src/assets/custom/*
 !src/assets/custom/.gitkeep
 !src/assets/custom/lyrics.json.example
 
+# Dist build
+dist/
+
 # Editor directories and files
 .idea
 .vscode
